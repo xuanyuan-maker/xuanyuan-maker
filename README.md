@@ -15,6 +15,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=ff00ff,00ffff&height=2&section=header" width="50%">
 </p>
 
+<!-- 贪吃蛇贡献图 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xuanyuan-maker/xuanyuan-maker/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xuanyuan-maker/xuanyuan-maker/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/xuanyuan-maker/xuanyuan-maker/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <br>
 
 <!-- 技术栈 -->
