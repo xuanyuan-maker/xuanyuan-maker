@@ -35,15 +35,15 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xuanyuan-maker&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanyuan-maker&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuanyuan-maker&amp;theme=radical" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xuanyuan-maker&amp;theme=radical" />
 </div>
 
 <br>
 
 <!-- Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=xuanyuan-maker&theme=radical&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com?user=xuanyuan-maker&amp;theme=radical&amp;hide_border=true&amp;background=00000000" />
 </div>
 
 <br>
