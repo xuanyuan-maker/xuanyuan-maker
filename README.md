@@ -10,6 +10,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=80&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=400&height=100&lines=xuanyuan" />
 </div>
 
+<!-- 身份标签 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CTF-Pwn-ff00ff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Linux-00ffff?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Binary%20Exploitation-ff00ff?style=for-the-badge&labelColor=000000" />
+</p>
+
 <!-- 蒸汽波渐变分隔线 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=ff00ff,00ffff&height=2&section=header" width="50%">
@@ -22,6 +29,21 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xuanyuan-maker/xuanyuan-maker/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/xuanyuan-maker/xuanyuan-maker/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xuanyuan-maker&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuanyuan-maker&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+</div>
+
+<br>
+
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=xuanyuan-maker&theme=radical&hide_border=true&background=00000000" />
 </div>
 
 <br>
