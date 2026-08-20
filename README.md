@@ -24,7 +24,7 @@
 
 <!-- 3D 贡献图 -->
 <div align="center">
-  <img alt="GitHub 3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="GitHub 3D contribution graph" src="./profile-3d-contrib/profile-night-green.svg" />
 </div>
 
 <br>
